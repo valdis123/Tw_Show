@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Git Aviator
 // @namespace    http://tampermonkey.net/
-// @version      3.021
+// @version      3.03
 // @description  Enviar sinais de Aviator
 // @author       Gasparzin
 // @include      https://*aviator*
