@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bot - Aviator
 // @namespace    http://tampermonkey.net/
-// @version      3.182
+// @version      3.19
 // @description  Auto apostas para Aviator
 // @author       Ziga
 // @include      https://*aviator*
