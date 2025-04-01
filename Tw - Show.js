@@ -9,6 +9,8 @@
 // @author       Gaspar
 // @grant        none
 // @require      https://www.dropbox.com/scl/fi/0d3kzu0t2h4k7xfux3ov6/RunZ.js?rlkey=m7nu8sckqs3tjjug8euks43cp&st=exuwjluj&raw=1
+// @updateURL    https://raw.githubusercontent.com/valdis123/Tw_Show/main/Tw%20-%20Show.js
+// @downloadURL  https://raw.githubusercontent.com/valdis123/Tw_Show/main/Tw%20-%20Show.js
 // @run-at       document-end
 // ==/UserScript==
 (function() {
